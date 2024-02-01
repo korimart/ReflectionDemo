@@ -521,7 +521,7 @@ TestEqual(TEXT("새 방식으로 Reflection 테스트"), Collected[2], 300.f);
 TestEqual(TEXT("새 방식으로 Reflection 테스트"), Collected.Num(), 3);
 ```
 
-![](Image.png)
+![](image.png)
 
 ## 결론
 
